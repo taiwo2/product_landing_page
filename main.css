@@ -1,0 +1,45 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: blanchedalmond;
+    text-align: center;
+  }
+
+  .topnav {
+      color: black;
+      font-family: verdana;
+      font-size: 20px;
+      text-align: center;
+
+  }
+  .topnav-right {
+    color: black;
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+
+}
+  
+    #about {
+    color: black;
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+
+}
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+  }
+
+  li {
+      display: inline;
+  }
+
+  .level {
+      display: table;
+  }
